@@ -13,6 +13,8 @@ ipython = "^8.0.1"
 ipdb = "^0.13.9"
 pdbpp = "^0.10.3"
 PySnooper = "^1.1.0"
+pytest = "^7.0.1"
+coverage = "^6.3.1"
 
 [tool.poetry.dev-dependencies]
 
